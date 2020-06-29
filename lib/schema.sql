@@ -25,5 +25,6 @@ CREATE TABLE Books (
 CREATE TABLE Characters (
   id INTEGER PRIMARY KEY,
   name TEXT,
-  species TEXT
+  species TEXT,
+  motto TEXT
 );
