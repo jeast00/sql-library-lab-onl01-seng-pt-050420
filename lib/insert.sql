@@ -15,4 +15,6 @@ VALUES ("sub-genre 1"), ("subgenre 2");
 INSERT INTO authors (name)
 VALUES ("author 1"), ("author 2");
 
-INSERT INTO character_books ()
+INSERT INTO character_books (book_id, character_id)
+VALUES (1, 1), (2, 2), (3, 1), (3, 3), (1, 2), (2, 1), (1, 3), (1, 4),
+       (), (), (), (), (), (), (), ()
