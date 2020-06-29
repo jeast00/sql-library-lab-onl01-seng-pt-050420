@@ -10,4 +10,4 @@ VALUES ("name 1", "motto 1", "species 1", 1), ("name 2", "motto 2", "species 2",
        ("name 5", "motto 5", "species 5", 2), ("name 6", "motto 6", "species 6", 2), ("name 7", "motto 7", "species 7", 2), ("name 8", "motto 8", "species 8", 2)
 
 INSERT INTO subgenres (name)
-VALUES ()
+VALUES ("sub-genre 1"), ("subgenre 2");
