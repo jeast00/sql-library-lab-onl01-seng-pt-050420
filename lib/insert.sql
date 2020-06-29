@@ -7,4 +7,4 @@ VALUES("book 1", 2002, 1), ("book 2", 2004, 1), ("book 3", 2006, 1),
 
 INSERT INTO characters (name, motto, species, author_id)
 VALUES("name 1", "motto 1", "species 1", 1), ("name 2", "motto 2", "species 2", 1), ("name 3", "motto 3", "species 3", 1), ("name 4", "motto 4", "species 4", 1),
-      ("name 5", "motto 5", "species 5", 2), ("name 2", "motto 2", "species 2", 2), ("name 3", "motto 3", "species 3", 3), ("name 4", "motto 4", "species 4", 4)
+      ("name 5", "motto 5", "species 5", 2), ("name 6", "motto 6", "species 6", 2), ("name 7", "motto 7", "species 7", 2), ("name 8", "motto 8", "species 8", 2)
