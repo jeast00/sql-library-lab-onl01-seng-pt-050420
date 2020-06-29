@@ -11,3 +11,6 @@ VALUES ("name 1", "motto 1", "species 1", 1), ("name 2", "motto 2", "species 2",
 
 INSERT INTO subgenres (name)
 VALUES ("sub-genre 1"), ("subgenre 2");
+
+INSERT INTO authors (name)
+VALUES ("author 1"), ("author 2");
