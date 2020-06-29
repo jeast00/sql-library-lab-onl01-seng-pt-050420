@@ -9,3 +9,8 @@ CREATE TABLE Subgenres (
   id INTEGER PRIMARY KEY,
   name TEXT
 );
+
+CREATE TABLE Authors (
+  id INTEGER PRIMARY KEY,
+  name TEXT
+);
